@@ -1,6 +1,7 @@
 {
   "name": "react-use-dynamic-script-hook",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "homepage": "https://gorestarry.github.io/react-use-dynamic-script-hook/",
   "author": {
     "name": "Gore Wang",
     "email": "sunrise91.t3@gmail.com",

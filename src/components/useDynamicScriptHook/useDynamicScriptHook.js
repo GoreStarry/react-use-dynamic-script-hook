@@ -13,6 +13,7 @@ const useDynamicScriptHook = ({ scriptUrl, scriptId, callback }) => {
       document.body.appendChild(script);
 
       script.onload = () => {
+        setIsLoaded(true);
         if (callback) {
           callback();
         }
